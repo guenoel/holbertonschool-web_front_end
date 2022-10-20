@@ -25,7 +25,7 @@ html {
   }
   
   a:visited {
-    text-decoration: italic;
+    font-style: italic;
   }
   
   a:hover {
@@ -33,7 +33,7 @@ html {
   }
   
   a:active {
-    text-decoration: var(--color-light-grey);
+    background-color: var(--color-light-grey);
   }
 
   .visually-hidden {
