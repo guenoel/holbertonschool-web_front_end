@@ -5,12 +5,12 @@ html {
   body {
     color: var(--text-color);
     font-family: var(--font-family-base);
-  }
+  
 
   h6 {
     font-family: var(--font-family-title);
   }
-  
+}
  a {
     color: #161616;
   }
