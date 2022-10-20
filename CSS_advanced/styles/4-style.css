@@ -35,12 +35,7 @@ html {
     --color-dark-grey: #353535;
     --text-color: var(--color-black);
 
-  --font-family-base: Helvetica Neue;
-  --font-family-base: Helvetica;
-  --font-family-base: Arial;
-  --font-family-base: sans-serif;
-  --font-family-title: Helvetica Neue;
-  --font-family-title: Helvetica;
-  --font-family-title: Arial;
-  --font-family-title: sans-serif
+  --font-family-base: Helvetica Neue, Helvetica, Arial, sans-serif;
+  --font-family-title: Helvetica Neue, Helvetica, Arial, sans-serif;
+
 }
